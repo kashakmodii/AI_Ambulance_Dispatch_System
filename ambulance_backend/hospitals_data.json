@@ -1,0 +1,1592 @@
+[
+  {
+    "hospital_name": "Charusat Hospital",
+    "district": "Anand",
+    "latitude": 22.492,
+    "longitude": 72.88
+  },
+  {
+    "hospital_name": "Zydus Hospital, Ahmedabad",
+    "district": "Ahmedabad",
+    "latitude": 23.002189,
+    "longitude": 72.839219
+  },
+  {
+    "hospital_name": "GMERS Medical College Hospital, Gandhinagar",
+    "district": "Gandhinagar",
+    "latitude": 23.1863,
+    "longitude": 72.614107
+  },
+  {
+    "hospital_name": "Sterling Hospitals Anand",
+    "district": "Anand",
+    "latitude": 22.523478,
+    "longitude": 72.884922
+  },
+  {
+    "hospital_name": "CIMS Hospital, Surat",
+    "district": "Surat",
+    "latitude": 21.182412,
+    "longitude": 72.877101
+  },
+  {
+    "hospital_name": "GMERS Medical College Hospital, Vadodara",
+    "district": "Vadodara",
+    "latitude": 22.260567,
+    "longitude": 73.206162
+  },
+  {
+    "hospital_name": "Shalby Hospitals, Rajkot",
+    "district": "Rajkot",
+    "latitude": 22.345019,
+    "longitude": 70.760674
+  },
+  {
+    "hospital_name": "Ahmedabad General Hospital",
+    "district": "Ahmedabad",
+    "latitude": 23.007377,
+    "longitude": 72.528386
+  },
+  {
+    "hospital_name": "Surat District Hospital",
+    "district": "Surat",
+    "latitude": 21.215319,
+    "longitude": 72.765228
+  },
+  {
+    "hospital_name": "Rajkot Municipal Hospital",
+    "district": "Rajkot",
+    "latitude": 22.33047,
+    "longitude": 70.845923
+  },
+  {
+    "hospital_name": "Bhavnagar District Hospital",
+    "district": "Bhavnagar",
+    "latitude": 21.789329,
+    "longitude": 72.10963
+  },
+  {
+    "hospital_name": "Vadodara Multispeciality Hospital",
+    "district": "Vadodara",
+    "latitude": 22.334195,
+    "longitude": 73.119055
+  },
+  {
+    "hospital_name": "Anand District Hospital",
+    "district": "Anand",
+    "latitude": 22.536243,
+    "longitude": 72.93738
+  },
+  {
+    "hospital_name": "Gandhinagar District Hospital",
+    "district": "Gandhinagar",
+    "latitude": 23.292217,
+    "longitude": 72.60629
+  },
+  {
+    "hospital_name": "Jamnagar District Hospital",
+    "district": "Jamnagar",
+    "latitude": 22.39755,
+    "longitude": 70.040726
+  },
+  {
+    "hospital_name": "Junagadh Civil Hospital",
+    "district": "Junagadh",
+    "latitude": 21.533842,
+    "longitude": 70.470369
+  },
+  {
+    "hospital_name": "Kutch District Hospital",
+    "district": "Kutch",
+    "latitude": 23.290161,
+    "longitude": 69.68907
+  },
+  {
+    "hospital_name": "Morbi Government Hospital",
+    "district": "Morbi",
+    "latitude": 22.797935,
+    "longitude": 70.81583
+  },
+  {
+    "hospital_name": "Porbandar Civil Hospital",
+    "district": "Porbandar",
+    "latitude": 21.624637,
+    "longitude": 69.617535
+  },
+  {
+    "hospital_name": "Mehsana District Hospital",
+    "district": "Mehsana",
+    "latitude": 23.617307,
+    "longitude": 72.37415
+  },
+  {
+    "hospital_name": "Nadiad General Hospital",
+    "district": "Nadiad",
+    "latitude": 22.693666,
+    "longitude": 72.832025
+  },
+  {
+    "hospital_name": "Valsad Shrimad Rajchandra Hospital",
+    "district": "Valsad",
+    "latitude": 20.622659,
+    "longitude": 72.893665
+  },
+  {
+    "hospital_name": "Navsari Civil Hospital",
+    "district": "Navsari",
+    "latitude": 20.963187,
+    "longitude": 72.945346
+  },
+  {
+    "hospital_name": "Bharuch District Hospital",
+    "district": "Bharuch",
+    "latitude": 21.706763,
+    "longitude": 72.989652
+  },
+  {
+    "hospital_name": "Anjar Community Hospital",
+    "district": "Anjar",
+    "latitude": 23.147742,
+    "longitude": 70.06066
+  },
+  {
+    "hospital_name": "Dahod Government Hospital",
+    "district": "Dahod",
+    "latitude": 22.795433,
+    "longitude": 74.270671
+  },
+  {
+    "hospital_name": "Patan Civil Hospital",
+    "district": "Patan",
+    "latitude": 23.844967,
+    "longitude": 72.16712
+  },
+  {
+    "hospital_name": "Surendranagar District Hospital",
+    "district": "Surendranagar",
+    "latitude": 22.70266,
+    "longitude": 71.657719
+  },
+  {
+    "hospital_name": "Amreli District Hospital",
+    "district": "Amreli",
+    "latitude": 21.595433,
+    "longitude": 71.225674
+  },
+  {
+    "hospital_name": "Chhota Udaipur Medical Centre",
+    "district": "Chhota Udaipur",
+    "latitude": 21.885123,
+    "longitude": 73.010044
+  },
+  {
+    "hospital_name": "Bhuj Civil Hospital",
+    "district": "Bhuj",
+    "latitude": 23.268321,
+    "longitude": 69.658817
+  },
+  {
+    "hospital_name": "Ahmedabad Children's Hospital",
+    "district": "Ahmedabad",
+    "latitude": 23.063709,
+    "longitude": 72.600922
+  },
+  {
+    "hospital_name": "Ahmedabad Heart Institute",
+    "district": "Ahmedabad",
+    "latitude": 22.99933,
+    "longitude": 72.542122
+  },
+  {
+    "hospital_name": "Surat Heart Institute",
+    "district": "Surat",
+    "latitude": 21.164231,
+    "longitude": 72.792906
+  },
+  {
+    "hospital_name": "Rajkot Cancer Centre",
+    "district": "Rajkot",
+    "latitude": 22.320976,
+    "longitude": 70.820963
+  },
+  {
+    "hospital_name": "Vadodara Eye Hospital",
+    "district": "Vadodara",
+    "latitude": 22.28623,
+    "longitude": 73.206071
+  },
+  {
+    "hospital_name": "Bhavnagar Cardiac Hospital",
+    "district": "Bhavnagar",
+    "latitude": 21.74724,
+    "longitude": 72.159921
+  },
+  {
+    "hospital_name": "Gandhinagar Cancer Centre",
+    "district": "Gandhinagar",
+    "latitude": 23.23066,
+    "longitude": 72.663432
+  },
+  {
+    "hospital_name": "Vadodara Dental Hospital",
+    "district": "Vadodara",
+    "latitude": 22.315388,
+    "longitude": 73.15044
+  },
+  {
+    "hospital_name": "Surat Children's Hospital",
+    "district": "Surat",
+    "latitude": 21.145632,
+    "longitude": 72.824352
+  },
+  {
+    "hospital_name": "Ahmedabad Eye Hospital",
+    "district": "Ahmedabad",
+    "latitude": 23.045771,
+    "longitude": 72.57643
+  },
+  {
+    "hospital_name": "Rajkot Women's Hospital",
+    "district": "Rajkot",
+    "latitude": 22.291831,
+    "longitude": 70.766264
+  },
+  {
+    "hospital_name": "Jamnagar Heart Institute",
+    "district": "Jamnagar",
+    "latitude": 22.453487,
+    "longitude": 70.053312
+  },
+  {
+    "hospital_name": "Junagadh Medical College Hospital",
+    "district": "Junagadh",
+    "latitude": 21.511694,
+    "longitude": 70.45628
+  },
+  {
+    "hospital_name": "Kutch Multispeciality Hospital",
+    "district": "Kutch",
+    "latitude": 23.267982,
+    "longitude": 69.633594
+  },
+  {
+    "hospital_name": "Morbi Heart Centre",
+    "district": "Morbi",
+    "latitude": 22.796427,
+    "longitude": 70.809837
+  },
+  {
+    "hospital_name": "Porbandar Government Hospital",
+    "district": "Porbandar",
+    "latitude": 21.6458,
+    "longitude": 69.640197
+  },
+  {
+    "hospital_name": "Mehsana Children's Hospital",
+    "district": "Mehsana",
+    "latitude": 23.619177,
+    "longitude": 72.429359
+  },
+  {
+    "hospital_name": "Nadiad Heart Institute",
+    "district": "Nadiad",
+    "latitude": 22.716455,
+    "longitude": 72.87433
+  },
+  {
+    "hospital_name": "Valsad Eye Centre",
+    "district": "Valsad",
+    "latitude": 20.59312,
+    "longitude": 72.907441
+  },
+  {
+    "hospital_name": "Navsari Women's Hospital",
+    "district": "Navsari",
+    "latitude": 20.962431,
+    "longitude": 72.935832
+  },
+  {
+    "hospital_name": "Bharuch Cancer Centre",
+    "district": "Bharuch",
+    "latitude": 21.679237,
+    "longitude": 72.997401
+  },
+  {
+    "hospital_name": "Anjar Multispeciality Hospital",
+    "district": "Anjar",
+    "latitude": 23.120269,
+    "longitude": 70.07416
+  },
+  {
+    "hospital_name": "Dahod General Hospital",
+    "district": "Dahod",
+    "latitude": 22.807481,
+    "longitude": 74.256573
+  },
+  {
+    "hospital_name": "Patan Women's Hospital",
+    "district": "Patan",
+    "latitude": 23.863738,
+    "longitude": 72.12634
+  },
+  {
+    "hospital_name": "Surendranagar Heart Institute",
+    "district": "Surendranagar",
+    "latitude": 22.730786,
+    "longitude": 71.608212
+  },
+  {
+    "hospital_name": "Amreli District Women's Hospital",
+    "district": "Amreli",
+    "latitude": 21.601895,
+    "longitude": 71.241982
+  },
+  {
+    "hospital_name": "Chhota Udaipur District Hospital",
+    "district": "Chhota Udaipur",
+    "latitude": 21.90457,
+    "longitude": 73.006033
+  },
+  {
+    "hospital_name": "Bhuj Heart Hospital",
+    "district": "Bhuj",
+    "latitude": 23.245321,
+    "longitude": 69.684193
+  },
+  {
+    "hospital_name": "Ahmedabad Dental Hospital",
+    "district": "Ahmedabad",
+    "latitude": 23.066519,
+    "longitude": 72.541694
+  },
+  {
+    "hospital_name": "Surat Dental Centre",
+    "district": "Surat",
+    "latitude": 21.13205,
+    "longitude": 72.855734
+  },
+  {
+    "hospital_name": "Rajkot Eye Hospital",
+    "district": "Rajkot",
+    "latitude": 22.309445,
+    "longitude": 70.797234
+  },
+  {
+    "hospital_name": "Vadodara Cancer Centre",
+    "district": "Vadodara",
+    "latitude": 22.32221,
+    "longitude": 73.184909
+  },
+  {
+    "hospital_name": "Bhavnagar Multispeciality Hospital",
+    "district": "Bhavnagar",
+    "latitude": 21.741296,
+    "longitude": 72.160014
+  },
+  {
+    "hospital_name": "Gandhinagar Eye Hospital",
+    "district": "Gandhinagar",
+    "latitude": 23.24115,
+    "longitude": 72.626893
+  },
+  {
+    "hospital_name": "Vadodara Children's Hospital",
+    "district": "Vadodara",
+    "latitude": 22.28887,
+    "longitude": 73.148327
+  },
+  {
+    "hospital_name": "Surat Community Health Centre",
+    "district": "Surat",
+    "latitude": 21.159821,
+    "longitude": 72.818344
+  },
+  {
+    "hospital_name": "Ahmedabad Municipal Hospital",
+    "district": "Ahmedabad",
+    "latitude": 23.03788,
+    "longitude": 72.596444
+  },
+  {
+    "hospital_name": "Rajkot Children's Hospital",
+    "district": "Rajkot",
+    "latitude": 22.31716,
+    "longitude": 70.775833
+  },
+  {
+    "hospital_name": "Jamnagar Multispeciality Hospital",
+    "district": "Jamnagar",
+    "latitude": 22.463656,
+    "longitude": 70.041933
+  },
+  {
+    "hospital_name": "Junagadh Eye Centre",
+    "district": "Junagadh",
+    "latitude": 21.531402,
+    "longitude": 70.471049
+  },
+  {
+    "hospital_name": "Kutch District Cardiac Centre",
+    "district": "Kutch",
+    "latitude": 23.300185,
+    "longitude": 69.64406
+  },
+  {
+    "hospital_name": "Morbi Community Hospital",
+    "district": "Morbi",
+    "latitude": 22.81053,
+    "longitude": 70.854613
+  },
+  {
+    "hospital_name": "Porbandar Eye Hospital",
+    "district": "Porbandar",
+    "latitude": 21.64392,
+    "longitude": 69.647839
+  },
+  {
+    "hospital_name": "Mehsana Heart Institute",
+    "district": "Mehsana",
+    "latitude": 23.624197,
+    "longitude": 72.40412
+  },
+  {
+    "hospital_name": "Nadiad Dental Hospital",
+    "district": "Nadiad",
+    "latitude": 22.711811,
+    "longitude": 72.841186
+  },
+  {
+    "hospital_name": "Valsad Community Health Centre",
+    "district": "Valsad",
+    "latitude": 20.602611,
+    "longitude": 72.948687
+  },
+  {
+    "hospital_name": "Navsari Multispeciality Hospital",
+    "district": "Navsari",
+    "latitude": 20.972481,
+    "longitude": 72.962087
+  },
+  {
+    "hospital_name": "Bharuch Heart Centre",
+    "district": "Bharuch",
+    "latitude": 21.693487,
+    "longitude": 72.997676
+  },
+  {
+    "hospital_name": "Anjar General Hospital",
+    "district": "Anjar",
+    "latitude": 23.137635,
+    "longitude": 70.049875
+  },
+  {
+    "hospital_name": "Dahod Community Hospital",
+    "district": "Dahod",
+    "latitude": 22.84188,
+    "longitude": 74.237301
+  },
+  {
+    "hospital_name": "Patan Government Hospital",
+    "district": "Patan",
+    "latitude": 23.852494,
+    "longitude": 72.176852
+  },
+  {
+    "hospital_name": "Surendranagar Multispeciality Hospital",
+    "district": "Surendranagar",
+    "latitude": 22.722275,
+    "longitude": 71.619741
+  },
+  {
+    "hospital_name": "Amreli General Hospital",
+    "district": "Amreli",
+    "latitude": 21.599213,
+    "longitude": 71.238169
+  },
+  {
+    "hospital_name": "Chhota Udaipur Civil Hospital",
+    "district": "Chhota Udaipur",
+    "latitude": 21.87177,
+    "longitude": 73.001682
+  },
+  {
+    "hospital_name": "Bhuj Multispeciality Centre",
+    "district": "Bhuj",
+    "latitude": 23.281641,
+    "longitude": 69.654854
+  },
+  {
+    "hospital_name": "Ahmedabad Cancer Centre",
+    "district": "Ahmedabad",
+    "latitude": 23.037112,
+    "longitude": 72.595921
+  },
+  {
+    "hospital_name": "Surat Cancer Institute",
+    "district": "Surat",
+    "latitude": 21.160479,
+    "longitude": 72.838792
+  },
+  {
+    "hospital_name": "Rajkot Dental Centre",
+    "district": "Rajkot",
+    "latitude": 22.308724,
+    "longitude": 70.780311
+  },
+  {
+    "hospital_name": "Vadodara Women's Hospital",
+    "district": "Vadodara",
+    "latitude": 22.305894,
+    "longitude": 73.169515
+  },
+  {
+    "hospital_name": "Bhavnagar Eye Centre",
+    "district": "Bhavnagar",
+    "latitude": 21.758432,
+    "longitude": 72.123051
+  },
+  {
+    "hospital_name": "Gandhinagar Dental Clinic",
+    "district": "Gandhinagar",
+    "latitude": 23.249032,
+    "longitude": 72.638239
+  },
+  {
+    "hospital_name": "Vadodara Rehabilitation Centre",
+    "district": "Vadodara",
+    "latitude": 22.329479,
+    "longitude": 73.200201
+  },
+  {
+    "hospital_name": "Surat Rehabilitation Hospital",
+    "district": "Surat",
+    "latitude": 21.179259,
+    "longitude": 72.836921
+  },
+  {
+    "hospital_name": "Ahmedabad Women's Hospital",
+    "district": "Ahmedabad",
+    "latitude": 23.05719,
+    "longitude": 72.568934
+  },
+  {
+    "hospital_name": "Rajkot Surgical Centre",
+    "district": "Rajkot",
+    "latitude": 22.316489,
+    "longitude": 70.781421
+  },
+  {
+    "hospital_name": "Jamnagar Eye Centre",
+    "district": "Jamnagar",
+    "latitude": 22.447204,
+    "longitude": 70.054732
+  },
+  {
+    "hospital_name": "Junagadh Cardiac Centre",
+    "district": "Junagadh",
+    "latitude": 21.508273,
+    "longitude": 70.463302
+  },
+  {
+    "hospital_name": "Kutch Community Health Centre",
+    "district": "Kutch",
+    "latitude": 23.311485,
+    "longitude": 69.672045
+  },
+  {
+    "hospital_name": "Morbi Dental Hospital",
+    "district": "Morbi",
+    "latitude": 22.827892,
+    "longitude": 70.83673
+  },
+  {
+    "hospital_name": "Porbandar Women's Hospital",
+    "district": "Porbandar",
+    "latitude": 21.633002,
+    "longitude": 69.628453
+  },
+  {
+    "hospital_name": "Mehsana Cancer Centre",
+    "district": "Mehsana",
+    "latitude": 23.610511,
+    "longitude": 72.387092
+  },
+  {
+    "hospital_name": "Nadiad Community Health Centre",
+    "district": "Nadiad",
+    "latitude": 22.697291,
+    "longitude": 72.878885
+  },
+  {
+    "hospital_name": "Valsad Dental Centre",
+    "district": "Valsad",
+    "latitude": 20.596592,
+    "longitude": 72.903259
+  },
+  {
+    "hospital_name": "Navsari Heart Institute",
+    "district": "Navsari",
+    "latitude": 20.968111,
+    "longitude": 72.959378
+  },
+  {
+    "hospital_name": "Bharuch Dental Hospital",
+    "district": "Bharuch",
+    "latitude": 21.700295,
+    "longitude": 72.975514
+  },
+  {
+    "hospital_name": "Anjar Heart Clinic",
+    "district": "Anjar",
+    "latitude": 23.119379,
+    "longitude": 70.06306
+  },
+  {
+    "hospital_name": "Dahod Heart Hospital",
+    "district": "Dahod",
+    "latitude": 22.829731,
+    "longitude": 74.274428
+  },
+  {
+    "hospital_name": "Patan Dental Clinic",
+    "district": "Patan",
+    "latitude": 23.847601,
+    "longitude": 72.13122
+  },
+  {
+    "hospital_name": "Surendranagar Dental Centre",
+    "district": "Surendranagar",
+    "latitude": 22.724872,
+    "longitude": 71.629101
+  },
+  {
+    "hospital_name": "Amreli Eye Hospital",
+    "district": "Amreli",
+    "latitude": 21.609302,
+    "longitude": 71.237395
+  },
+  {
+    "hospital_name": "Chhota Udaipur Women's Hospital",
+    "district": "Chhota Udaipur",
+    "latitude": 21.878994,
+    "longitude": 73.008223
+  },
+  {
+    "hospital_name": "Bhuj Trauma Centre",
+    "district": "Bhuj",
+    "latitude": 23.262899,
+    "longitude": 69.651284
+  },
+  {
+    "hospital_name": "Ahmedabad Trauma Centre",
+    "district": "Ahmedabad",
+    "latitude": 23.017702,
+    "longitude": 72.563226
+  },
+  {
+    "hospital_name": "Surat Trauma Centre",
+    "district": "Surat",
+    "latitude": 21.148341,
+    "longitude": 72.841569
+  },
+  {
+    "hospital_name": "Rajkot Trauma Centre",
+    "district": "Rajkot",
+    "latitude": 22.327977,
+    "longitude": 70.796202
+  },
+  {
+    "hospital_name": "Vadodara Trauma Centre",
+    "district": "Vadodara",
+    "latitude": 22.300127,
+    "longitude": 73.160892
+  },
+  {
+    "hospital_name": "Bhavnagar Trauma Unit",
+    "district": "Bhavnagar",
+    "latitude": 21.753531,
+    "longitude": 72.13906
+  },
+  {
+    "hospital_name": "Gandhinagar Children's Clinic",
+    "district": "Gandhinagar",
+    "latitude": 23.221451,
+    "longitude": 72.655998
+  },
+  {
+    "hospital_name": "Vadodara Orthopaedic Hospital",
+    "district": "Vadodara",
+    "latitude": 22.316019,
+    "longitude": 73.201563
+  },
+  {
+    "hospital_name": "Surat Orthopaedic Centre",
+    "district": "Surat",
+    "latitude": 21.191702,
+    "longitude": 72.850427
+  },
+  {
+    "hospital_name": "Ahmedabad Orthopaedic Centre",
+    "district": "Ahmedabad",
+    "latitude": 23.041353,
+    "longitude": 72.529412
+  },
+  {
+    "hospital_name": "Rajkot Cardiac Centre",
+    "district": "Rajkot",
+    "latitude": 22.301994,
+    "longitude": 70.805447
+  },
+  {
+    "hospital_name": "Jamnagar Orthopaedic Hospital",
+    "district": "Jamnagar",
+    "latitude": 22.464953,
+    "longitude": 70.062369
+  },
+  {
+    "hospital_name": "Junagadh Orthopaedic Clinic",
+    "district": "Junagadh",
+    "latitude": 21.525311,
+    "longitude": 70.448997
+  },
+  {
+    "hospital_name": "Kutch Orthopaedic Centre",
+    "district": "Kutch",
+    "latitude": 23.272347,
+    "longitude": 69.668433
+  },
+  {
+    "hospital_name": "Morbi Orthopaedic Hospital",
+    "district": "Morbi",
+    "latitude": 22.813422,
+    "longitude": 70.844006
+  },
+  {
+    "hospital_name": "Porbandar Cardiac Clinic",
+    "district": "Porbandar",
+    "latitude": 21.651362,
+    "longitude": 69.632101
+  },
+  {
+    "hospital_name": "Mehsana Multispeciality Clinic",
+    "district": "Mehsana",
+    "latitude": 23.602819,
+    "longitude": 72.343992
+  },
+  {
+    "hospital_name": "Nadiad Cancer Centre",
+    "district": "Nadiad",
+    "latitude": 22.703608,
+    "longitude": 72.866275
+  },
+  {
+    "hospital_name": "Valsad Cancer Clinic",
+    "district": "Valsad",
+    "latitude": 20.602834,
+    "longitude": 72.93118
+  },
+  {
+    "hospital_name": "Navsari Orthopaedic Hospital",
+    "district": "Navsari",
+    "latitude": 20.965809,
+    "longitude": 72.998391
+  },
+  {
+    "hospital_name": "Bharuch Multispeciality Clinic",
+    "district": "Bharuch",
+    "latitude": 21.717899,
+    "longitude": 72.989211
+  },
+  {
+    "hospital_name": "Anjar Cardiac Centre",
+    "district": "Anjar",
+    "latitude": 23.136059,
+    "longitude": 70.064021
+  },
+  {
+    "hospital_name": "Dahod Orthopaedic Centre",
+    "district": "Dahod",
+    "latitude": 22.845902,
+    "longitude": 74.244185
+  },
+  {
+    "hospital_name": "Patan Heart Institute",
+    "district": "Patan",
+    "latitude": 23.858991,
+    "longitude": 72.140559
+  },
+  {
+    "hospital_name": "Surendranagar Cardiac Hospital",
+    "district": "Surendranagar",
+    "latitude": 22.709186,
+    "longitude": 71.647966
+  },
+  {
+    "hospital_name": "Amreli Orthopaedic Centre",
+    "district": "Amreli",
+    "latitude": 21.603887,
+    "longitude": 71.236145
+  },
+  {
+    "hospital_name": "Chhota Udaipur Trauma Centre",
+    "district": "Chhota Udaipur",
+    "latitude": 21.882025,
+    "longitude": 73.01221
+  },
+  {
+    "hospital_name": "Bhuj Cancer Centre",
+    "district": "Bhuj",
+    "latitude": 23.290012,
+    "longitude": 69.661083
+  },
+  {
+    "hospital_name": "Ahmedabad Rehabilitation Centre",
+    "district": "Ahmedabad",
+    "latitude": 23.047391,
+    "longitude": 72.558158
+  },
+  {
+    "hospital_name": "Surat Rehabilitation Centre",
+    "district": "Surat",
+    "latitude": 21.18549,
+    "longitude": 72.832109
+  },
+  {
+    "hospital_name": "Rajkot Rehabilitation Clinic",
+    "district": "Rajkot",
+    "latitude": 22.333463,
+    "longitude": 70.80427
+  },
+  {
+    "hospital_name": "Vadodara Eye Clinic",
+    "district": "Vadodara",
+    "latitude": 22.29917,
+    "longitude": 73.184153
+  },
+  {
+    "hospital_name": "Bhavnagar Dental Hospital",
+    "district": "Bhavnagar",
+    "latitude": 21.749876,
+    "longitude": 72.143231
+  },
+  {
+    "hospital_name": "Gandhinagar Cardiac Hospital",
+    "district": "Gandhinagar",
+    "latitude": 23.214431,
+    "longitude": 72.632454
+  },
+  {
+    "hospital_name": "Vadodara General Hospital",
+    "district": "Vadodara",
+    "latitude": 22.294672,
+    "longitude": 73.146335
+  },
+  {
+    "hospital_name": "Surat General Hospital",
+    "district": "Surat",
+    "latitude": 21.171874,
+    "longitude": 72.827093
+  },
+  {
+    "hospital_name": "Ahmedabad General Clinic",
+    "district": "Ahmedabad",
+    "latitude": 23.040132,
+    "longitude": 72.580284
+  },
+  {
+    "hospital_name": "Rajkot Women's Clinic",
+    "district": "Rajkot",
+    "latitude": 22.318397,
+    "longitude": 70.803374
+  },
+  {
+    "hospital_name": "Jamnagar Dental Centre",
+    "district": "Jamnagar",
+    "latitude": 22.459995,
+    "longitude": 70.049421
+  },
+  {
+    "hospital_name": "Junagadh Dental Clinic",
+    "district": "Junagadh",
+    "latitude": 21.517397,
+    "longitude": 70.457585
+  },
+  {
+    "hospital_name": "Kutch Dental Hospital",
+    "district": "Kutch",
+    "latitude": 23.303527,
+    "longitude": 69.664158
+  },
+  {
+    "hospital_name": "Morbi Cardiac Centre",
+    "district": "Morbi",
+    "latitude": 22.825864,
+    "longitude": 70.831142
+  },
+  {
+    "hospital_name": "Porbandar Dental Hospital",
+    "district": "Porbandar",
+    "latitude": 21.630457,
+    "longitude": 69.63289
+  },
+  {
+    "hospital_name": "Mehsana Rehabilitation Centre",
+    "district": "Mehsana",
+    "latitude": 23.613213,
+    "longitude": 72.381606
+  },
+  {
+    "hospital_name": "Nadiad Eye Clinic",
+    "district": "Nadiad",
+    "latitude": 22.709883,
+    "longitude": 72.86496
+  },
+  {
+    "hospital_name": "Valsad Orthopaedic Centre",
+    "district": "Valsad",
+    "latitude": 20.60718,
+    "longitude": 72.94112
+  },
+  {
+    "hospital_name": "Navsari Cancer Centre",
+    "district": "Navsari",
+    "latitude": 20.969274,
+    "longitude": 72.94742
+  },
+  {
+    "hospital_name": "Bharuch Orthopaedic Centre",
+    "district": "Bharuch",
+    "latitude": 21.709822,
+    "longitude": 72.982417
+  },
+  {
+    "hospital_name": "Anjar Dental Clinic",
+    "district": "Anjar",
+    "latitude": 23.1287,
+    "longitude": 70.059194
+  },
+  {
+    "hospital_name": "Dahod Rehabilitation Centre",
+    "district": "Dahod",
+    "latitude": 22.833645,
+    "longitude": 74.23105
+  },
+  {
+    "hospital_name": "Patan Multispeciality Centre",
+    "district": "Patan",
+    "latitude": 23.860217,
+    "longitude": 72.120805
+  },
+  {
+    "hospital_name": "Surendranagar Rehabilitation Unit",
+    "district": "Surendranagar",
+    "latitude": 22.711386,
+    "longitude": 71.676952
+  },
+  {
+    "hospital_name": "Amreli Cancer Centre",
+    "district": "Amreli",
+    "latitude": 21.606471,
+    "longitude": 71.236947
+  },
+  {
+    "hospital_name": "Chhota Udaipur Eye Hospital",
+    "district": "Chhota Udaipur",
+    "latitude": 21.889135,
+    "longitude": 73.012951
+  },
+  {
+    "hospital_name": "Bhuj Orthopaedic Clinic",
+    "district": "Bhuj",
+    "latitude": 23.27987,
+    "longitude": 69.66691
+  },
+  {
+    "hospital_name": "Ahmedabad Cardiac Clinic",
+    "district": "Ahmedabad",
+    "latitude": 23.01917,
+    "longitude": 72.56709
+  },
+  {
+    "hospital_name": "Surat Cancer Hospital",
+    "district": "Surat",
+    "latitude": 21.172086,
+    "longitude": 72.820458
+  },
+  {
+    "hospital_name": "Rajkot Orthopaedic Centre",
+    "district": "Rajkot",
+    "latitude": 22.30033,
+    "longitude": 70.803019
+  },
+  {
+    "hospital_name": "Vadodara Dental Clinic",
+    "district": "Vadodara",
+    "latitude": 22.312983,
+    "longitude": 73.197899
+  },
+  {
+    "hospital_name": "Bhavnagar Rehabilitation Unit",
+    "district": "Bhavnagar",
+    "latitude": 21.758331,
+    "longitude": 72.150792
+  },
+  {
+    "hospital_name": "Gandhinagar Orthopaedic Clinic",
+    "district": "Gandhinagar",
+    "latitude": 23.238749,
+    "longitude": 72.634102
+  },
+  {
+    "hospital_name": "Vadodara Trauma Clinic",
+    "district": "Vadodara",
+    "latitude": 22.306012,
+    "longitude": 73.152389
+  },
+  {
+    "hospital_name": "Surat Women's Hospital",
+    "district": "Surat",
+    "latitude": 21.154247,
+    "longitude": 72.833401
+  },
+  {
+    "hospital_name": "Ahmedabad Women's Clinic",
+    "district": "Ahmedabad",
+    "latitude": 23.054432,
+    "longitude": 72.581335
+  },
+  {
+    "hospital_name": "Rajkot Dental Clinic",
+    "district": "Rajkot",
+    "latitude": 22.311462,
+    "longitude": 70.777452
+  },
+  {
+    "hospital_name": "Jamnagar Cancer Centre",
+    "district": "Jamnagar",
+    "latitude": 22.452121,
+    "longitude": 70.058441
+  },
+  {
+    "hospital_name": "Junagadh Rehabilitation Centre",
+    "district": "Junagadh",
+    "latitude": 21.525121,
+    "longitude": 70.452189
+  },
+  {
+    "hospital_name": "Kutch Women's Hospital",
+    "district": "Kutch",
+    "latitude": 23.283919,
+    "longitude": 69.677842
+  },
+  {
+    "hospital_name": "Morbi Cancer Centre",
+    "district": "Morbi",
+    "latitude": 22.82025,
+    "longitude": 70.805387
+  },
+  {
+    "hospital_name": "Porbandar Rehabilitation Unit",
+    "district": "Porbandar",
+    "latitude": 21.635671,
+    "longitude": 69.627934
+  },
+  {
+    "hospital_name": "Mehsana Orthopaedic Clinic",
+    "district": "Mehsana",
+    "latitude": 23.603691,
+    "longitude": 72.371114
+  },
+  {
+    "hospital_name": "Nadiad Orthopaedic Centre",
+    "district": "Nadiad",
+    "latitude": 22.709457,
+    "longitude": 72.856482
+  },
+  {
+    "hospital_name": "Valsad Cardiac Centre",
+    "district": "Valsad",
+    "latitude": 20.60968,
+    "longitude": 72.931128
+  },
+  {
+    "hospital_name": "Navsari Rehabilitation Unit",
+    "district": "Navsari",
+    "latitude": 20.959741,
+    "longitude": 72.953817
+  },
+  {
+    "hospital_name": "Bharuch Eye Clinic",
+    "district": "Bharuch",
+    "latitude": 21.700891,
+    "longitude": 72.973219
+  },
+  {
+    "hospital_name": "Anjar Rehabilitation Centre",
+    "district": "Anjar",
+    "latitude": 23.142962,
+    "longitude": 70.058544
+  },
+  {
+    "hospital_name": "Dahod Cancer Centre",
+    "district": "Dahod",
+    "latitude": 22.848164,
+    "longitude": 74.228937
+  },
+  {
+    "hospital_name": "Patan Eye Hospital",
+    "district": "Patan",
+    "latitude": 23.851392,
+    "longitude": 72.124154
+  },
+  {
+    "hospital_name": "Surendranagar Eye Clinic",
+    "district": "Surendranagar",
+    "latitude": 22.721873,
+    "longitude": 71.663245
+  },
+  {
+    "hospital_name": "Amreli Dental Centre",
+    "district": "Amreli",
+    "latitude": 21.608947,
+    "longitude": 71.234595
+  },
+  {
+    "hospital_name": "Chhota Udaipur Dental Clinic",
+    "district": "Chhota Udaipur",
+    "latitude": 21.887391,
+    "longitude": 73.014412
+  },
+  {
+    "hospital_name": "Bhuj Dental Clinic",
+    "district": "Bhuj",
+    "latitude": 23.262101,
+    "longitude": 69.676201
+  },
+  {
+    "hospital_name": "Ahmedabad Children's Clinic",
+    "district": "Ahmedabad",
+    "latitude": 23.059127,
+    "longitude": 72.584103
+  },
+  {
+    "hospital_name": "Surat Children's Clinic",
+    "district": "Surat",
+    "latitude": 21.161789,
+    "longitude": 72.829681
+  },
+  {
+    "hospital_name": "Rajkot Trauma Unit",
+    "district": "Rajkot",
+    "latitude": 22.312049,
+    "longitude": 70.795001
+  },
+  {
+    "hospital_name": "Vadodara Community Health Centre",
+    "district": "Vadodara",
+    "latitude": 22.312671,
+    "longitude": 73.168823
+  },
+  {
+    "hospital_name": "Bhavnagar Community Health Centre",
+    "district": "Bhavnagar",
+    "latitude": 21.767887,
+    "longitude": 72.150994
+  },
+  {
+    "hospital_name": "Gandhinagar Rehabilitation Unit",
+    "district": "Gandhinagar",
+    "latitude": 23.210447,
+    "longitude": 72.630099
+  },
+  {
+    "hospital_name": "Vadodara Cardiac Institute",
+    "district": "Vadodara",
+    "latitude": 22.326552,
+    "longitude": 73.205419
+  },
+  {
+    "hospital_name": "Surat Dental Hospital",
+    "district": "Surat",
+    "latitude": 21.172771,
+    "longitude": 72.836914
+  },
+  {
+    "hospital_name": "Ahmedabad Eye Clinic",
+    "district": "Ahmedabad",
+    "latitude": 23.049274,
+    "longitude": 72.593181
+  },
+  {
+    "hospital_name": "Rajkot Dental Hospital",
+    "district": "Rajkot",
+    "latitude": 22.322731,
+    "longitude": 70.796129
+  },
+  {
+    "hospital_name": "Jamnagar Dental Clinic",
+    "district": "Jamnagar",
+    "latitude": 22.459364,
+    "longitude": 70.056823
+  },
+  {
+    "hospital_name": "Junagadh Cancer Clinic",
+    "district": "Junagadh",
+    "latitude": 21.51799,
+    "longitude": 70.460775
+  },
+  {
+    "hospital_name": "Kutch Rehabilitation Unit",
+    "district": "Kutch",
+    "latitude": 23.289244,
+    "longitude": 69.677224
+  },
+  {
+    "hospital_name": "Morbi Children's Hospital",
+    "district": "Morbi",
+    "latitude": 22.819765,
+    "longitude": 70.837054
+  },
+  {
+    "hospital_name": "Porbandar Cancer Centre",
+    "district": "Porbandar",
+    "latitude": 21.6389,
+    "longitude": 69.624919
+  },
+  {
+    "hospital_name": "Mehsana Dental Clinic",
+    "district": "Mehsana",
+    "latitude": 23.626122,
+    "longitude": 72.390337
+  },
+  {
+    "hospital_name": "Nadiad Cancer Clinic",
+    "district": "Nadiad",
+    "latitude": 22.701916,
+    "longitude": 72.872008
+  },
+  {
+    "hospital_name": "Valsad Community Clinic",
+    "district": "Valsad",
+    "latitude": 20.606091,
+    "longitude": 72.918274
+  },
+  {
+    "hospital_name": "Navsari Orthopaedic Centre",
+    "district": "Navsari",
+    "latitude": 20.969981,
+    "longitude": 72.964191
+  },
+  {
+    "hospital_name": "Bharuch Trauma Centre",
+    "district": "Bharuch",
+    "latitude": 21.708301,
+    "longitude": 72.990116
+  },
+  {
+    "hospital_name": "Anjar Eye Clinic",
+    "district": "Anjar",
+    "latitude": 23.113192,
+    "longitude": 70.056238
+  },
+  {
+    "hospital_name": "Dahod Dental Hospital",
+    "district": "Dahod",
+    "latitude": 22.833084,
+    "longitude": 74.243501
+  },
+  {
+    "hospital_name": "Patan Rehabilitation Unit",
+    "district": "Patan",
+    "latitude": 23.856382,
+    "longitude": 72.12874
+  },
+  {
+    "hospital_name": "Surendranagar Community Hospital",
+    "district": "Surendranagar",
+    "latitude": 22.726098,
+    "longitude": 71.64816
+  },
+  {
+    "hospital_name": "Amreli Children's Clinic",
+    "district": "Amreli",
+    "latitude": 21.607422,
+    "longitude": 71.229829
+  },
+  {
+    "hospital_name": "Chhota Udaipur Cardiac Centre",
+    "district": "Chhota Udaipur",
+    "latitude": 21.879562,
+    "longitude": 73.013627
+  },
+  {
+    "hospital_name": "Bhuj Women's Clinic",
+    "district": "Bhuj",
+    "latitude": 23.276678,
+    "longitude": 69.660737
+  },
+  {
+    "hospital_name": "Ahmedabad Dental Clinic",
+    "district": "Ahmedabad",
+    "latitude": 23.04377,
+    "longitude": 72.547657
+  },
+  {
+    "hospital_name": "Surat Orthopaedic Hospital",
+    "district": "Surat",
+    "latitude": 21.169947,
+    "longitude": 72.834502
+  },
+  {
+    "hospital_name": "Rajkot Cancer Clinic",
+    "district": "Rajkot",
+    "latitude": 22.329192,
+    "longitude": 70.821589
+  },
+  {
+    "hospital_name": "Vadodara Rehabilitation Unit 2",
+    "district": "Vadodara",
+    "latitude": 22.323091,
+    "longitude": 73.17952
+  },
+  {
+    "hospital_name": "Bhavnagar General Clinic",
+    "district": "Bhavnagar",
+    "latitude": 21.76603,
+    "longitude": 72.152928
+  },
+  {
+    "hospital_name": "Gandhinagar Trauma Centre",
+    "district": "Gandhinagar",
+    "latitude": 23.202219,
+    "longitude": 72.63295
+  },
+  {
+    "hospital_name": "Vadodara Dental Clinic 2",
+    "district": "Vadodara",
+    "latitude": 22.317602,
+    "longitude": 73.183614
+  },
+  {
+    "hospital_name": "Surat Eye Clinic 2",
+    "district": "Surat",
+    "latitude": 21.173198,
+    "longitude": 72.832159
+  },
+  {
+    "hospital_name": "Ahmedabad Orthopaedic Hospital 2",
+    "district": "Ahmedabad",
+    "latitude": 23.056419,
+    "longitude": 72.55342
+  },
+  {
+    "hospital_name": "Rajkot Women's Hospital 2",
+    "district": "Rajkot",
+    "latitude": 22.292506,
+    "longitude": 70.768992
+  },
+  {
+    "hospital_name": "Jamnagar Rehabilitation Unit",
+    "district": "Jamnagar",
+    "latitude": 22.462331,
+    "longitude": 70.052053
+  },
+  {
+    "hospital_name": "Junagadh Orthopaedic Hospital 2",
+    "district": "Junagadh",
+    "latitude": 21.516109,
+    "longitude": 70.459832
+  },
+  {
+    "hospital_name": "Kutch Children's Hospital",
+    "district": "Kutch",
+    "latitude": 23.294351,
+    "longitude": 69.650921
+  },
+  {
+    "hospital_name": "Morbi Dental Clinic 2",
+    "district": "Morbi",
+    "latitude": 22.820182,
+    "longitude": 70.844298
+  },
+  {
+    "hospital_name": "Porbandar Multispeciality Hospital",
+    "district": "Porbandar",
+    "latitude": 21.632488,
+    "longitude": 69.62684
+  },
+  {
+    "hospital_name": "Mehsana Orthopaedic Centre 2",
+    "district": "Mehsana",
+    "latitude": 23.615102,
+    "longitude": 72.390721
+  },
+  {
+    "hospital_name": "Nadiad Rehabilitation Unit 2",
+    "district": "Nadiad",
+    "latitude": 22.704821,
+    "longitude": 72.870196
+  },
+  {
+    "hospital_name": "Valsad Heart Clinic 2",
+    "district": "Valsad",
+    "latitude": 20.600112,
+    "longitude": 72.928394
+  },
+  {
+    "hospital_name": "Navsari Dental Clinic 2",
+    "district": "Navsari",
+    "latitude": 20.976032,
+    "longitude": 72.954317
+  },
+  {
+    "hospital_name": "Bharuch Cancer Centre 2",
+    "district": "Bharuch",
+    "latitude": 21.712489,
+    "longitude": 72.993415
+  },
+  {
+    "hospital_name": "Anjar Community Clinic 2",
+    "district": "Anjar",
+    "latitude": 23.111047,
+    "longitude": 70.056112
+  },
+  {
+    "hospital_name": "Dahod Eye Clinic 2",
+    "district": "Dahod",
+    "latitude": 22.828372,
+    "longitude": 74.248543
+  },
+  {
+    "hospital_name": "Patan Dental Clinic 2",
+    "district": "Patan",
+    "latitude": 23.856587,
+    "longitude": 72.128031
+  },
+  {
+    "hospital_name": "Surendranagar Women's Clinic 2",
+    "district": "Surendranagar",
+    "latitude": 22.729001,
+    "longitude": 71.652018
+  },
+  {
+    "hospital_name": "Amreli Eye Clinic 2",
+    "district": "Amreli",
+    "latitude": 21.592981,
+    "longitude": 71.227231
+  },
+  {
+    "hospital_name": "Chhota Udaipur Dental Clinic 2",
+    "district": "Chhota Udaipur",
+    "latitude": 21.880418,
+    "longitude": 73.011651
+  },
+  {
+    "hospital_name": "Bhuj Rehabilitation Unit 2",
+    "district": "Bhuj",
+    "latitude": 23.270441,
+    "longitude": 69.657392
+  },
+  {
+    "hospital_name": "Ahmedabad Community Health Centre 2",
+    "district": "Ahmedabad",
+    "latitude": 23.021712,
+    "longitude": 72.588905
+  },
+  {
+    "hospital_name": "Surat Community Health Centre 2",
+    "district": "Surat",
+    "latitude": 21.192824,
+    "longitude": 72.823595
+  },
+  {
+    "hospital_name": "Rajkot Community Health Centre 2",
+    "district": "Rajkot",
+    "latitude": 22.302908,
+    "longitude": 70.807084
+  },
+  {
+    "hospital_name": "Vadodara Community Health Centre 2",
+    "district": "Vadodara",
+    "latitude": 22.316472,
+    "longitude": 73.188419
+  },
+  {
+    "hospital_name": "Bhavnagar Community Health Centre 2",
+    "district": "Bhavnagar",
+    "latitude": 21.760012,
+    "longitude": 72.149028
+  },
+  {
+    "hospital_name": "Gandhinagar Community Health Centre 2",
+    "district": "Gandhinagar",
+    "latitude": 23.226881,
+    "longitude": 72.642509
+  },
+  {
+    "hospital_name": "Vadodara Children's Clinic 2",
+    "district": "Vadodara",
+    "latitude": 22.300913,
+    "longitude": 73.176991
+  },
+  {
+    "hospital_name": "Surat Children's Clinic 2",
+    "district": "Surat",
+    "latitude": 21.177345,
+    "longitude": 72.829404
+  },
+  {
+    "hospital_name": "Ahmedabad Cardiac Centre 2",
+    "district": "Ahmedabad",
+    "latitude": 23.027804,
+    "longitude": 72.535281
+  },
+  {
+    "hospital_name": "Rajkot Cardiac Centre 2",
+    "district": "Rajkot",
+    "latitude": 22.299877,
+    "longitude": 70.799472
+  },
+  {
+    "hospital_name": "Jamnagar Cardiac Clinic 2",
+    "district": "Jamnagar",
+    "latitude": 22.448916,
+    "longitude": 70.058311
+  },
+  {
+    "hospital_name": "Junagadh Cardiac Clinic 2",
+    "district": "Junagadh",
+    "latitude": 21.511204,
+    "longitude": 70.459126
+  },
+  {
+    "hospital_name": "Kutch Cardiac Centre 2",
+    "district": "Kutch",
+    "latitude": 23.28925,
+    "longitude": 69.659102
+  },
+  {
+    "hospital_name": "Morbi Community Clinic 2",
+    "district": "Morbi",
+    "latitude": 22.824231,
+    "longitude": 70.827423
+  },
+  {
+    "hospital_name": "Porbandar Community Clinic 2",
+    "district": "Porbandar",
+    "latitude": 21.638124,
+    "longitude": 69.629009
+  },
+  {
+    "hospital_name": "Mehsana Rehabilitation Unit 2",
+    "district": "Mehsana",
+    "latitude": 23.613021,
+    "longitude": 72.372117
+  },
+  {
+    "hospital_name": "Nadiad Community Clinic 2",
+    "district": "Nadiad",
+    "latitude": 22.705427,
+    "longitude": 72.861992
+  }
+]
