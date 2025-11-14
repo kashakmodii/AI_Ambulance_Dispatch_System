@@ -41,13 +41,13 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyB7IEdF8w8m3LpGovP573gSdBLVEts0euY',
-    appId: '1:305192039236:web:4238c7127f41838a925d11',
-    messagingSenderId: '305192039236',
-    projectId: 'ai-ambulance-dispatch-daa1a',
-    authDomain: 'ai-ambulance-dispatch-daa1a.firebaseapp.com',
-    storageBucket: 'ai-ambulance-dispatch-daa1a.firebasestorage.app',
-    measurementId: 'G-SY53Q002RH',
+    apiKey: '',
+    appId: '',
+    messagingSenderId: '',
+    projectId: '',
+    authDomain: '',
+    storageBucket: '',
+    measurementId: '',
   );
 
   static const FirebaseOptions android = FirebaseOptions(
